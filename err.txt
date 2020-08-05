@@ -1,0 +1,17 @@
+Got here for the listing of emptiness.
+Checking if it's in the array
+c
+Inserted:c
+Got here3
+Got here2
+Checking if it's in the array
+f
+c
+Inserted:f
+Got here3
+Got here2
+Checking if it's in the array
+a
+f
+c
+Inserted:a
